@@ -1,4 +1,4 @@
-package com.xworkz.collection.DAO;
+package com.xworkz.daocollection;
 
 import java.util.ArrayList;
 import java.util.Collection;
